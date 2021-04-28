@@ -1,0 +1,4 @@
+[submodule "git"]
+	path = git
+	url = https://github.com/krajasekhara/git.git
+	branch = master
